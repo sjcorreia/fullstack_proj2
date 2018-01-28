@@ -58,7 +58,7 @@ div img {
 }
 
 .background_image {
-    max-height: 450px;
+    max-height: auto;
     width: 100%;
 }
 
